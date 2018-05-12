@@ -1,0 +1,31 @@
+_repo: The-Negro-and-the-NationA-History-of-American-Slavery-and-Enfranchisement_24613
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merriam, George Spring
+    alias: Merriam, George S.
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '25293'
+    url: http://www.gutenberg.org/2009/agents/25293
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2008-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Slavery -- United States -- History'
+- !lcsh 'African Americans -- History'
+title: 'The Negro and the Nation
+
+  A History of American Slavery and Enfranchisement'
+url: http://www.gutenberg.org/ebooks/24613
